@@ -1,0 +1,7 @@
+#Tue Apr 18 16:07:16 CEST 2017
+base.0=C\:\\Users\\Joren de Goede\\Documents\\test\\JorenGoede\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ca54ed80e9a403ca4bd138e4e8a67c43f4f91f16
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Joren de Goede\\Documents\\test\\JorenGoede\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_45f4ffa85f269c74a4e92574242abc5a716d89bc\\classes.dex
+base.1=C\:\\Users\\Joren de Goede\\Documents\\test\\JorenGoede\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_45f4ffa85f269c74a4e92574242abc5a716d89bc
+file.0=C\:\\Users\\Joren de Goede\\Documents\\test\\JorenGoede\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ca54ed80e9a403ca4bd138e4e8a67c43f4f91f16\\classes.dex
